@@ -32,3 +32,15 @@ Maximum EV incentives all over Australia
 https://discover.data.vic.gov.au/dataset/whole-fleet-vehicle-registration-snapshot-by-postcode
 
 https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/income-and-work-census/latest-release#data-downloads
+
+https://www.aip.com.au/historical-ulp-and-diesel-tgp-data
+
+https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/income-and-work-census/latest-release#data-downloads
+
+https://discover.data.vic.gov.au/dataset/development-activity-monitor
+
+https://discover.data.vic.gov.au/dataset/vehicle-transfers-2018-2022
+
+https://discover.data.vic.gov.au/dataset/monthly-vehicle-transfers
+
+https://discover.data.vic.gov.au/dataset/new-vehicle-registrations-2018-2022
