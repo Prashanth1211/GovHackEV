@@ -14,16 +14,19 @@ Providing solutions for making electric vehicles affoldable to in and out to Vic
 ### Visualization
 
 ![Graph-1](https://github.com/Prashanth1211/GovHackEV/blob/main/img/image.png)
+Increase in Pertroleum price
 
 ![Graph-2](https://github.com/Prashanth1211/GovHackEV/blob/main/img/Screenshot%202023-08-20%20at%201.02.49%20pm.png)
+Mapping of EV intake - VIC
 
 ![Graph-3](https://github.com/Prashanth1211/GovHackEV/blob/main/img/Screenshot%202023-08-20%20at%201.02.56%20pm.png)
-
-![Graph-4](https://github.com/Prashanth1211/GovHackEV/blob/main/img/Screenshot%202023-08-20%20at%201.08.59%20pm.png)
+Ratio of EV to normal cars
 
 ![Graph-5](https://github.com/Prashanth1211/GovHackEV/blob/main/img/Screenshot%202023-08-20%20at%201.19.49%20pm.png)
+Highest number of EVs in Austrlia
 
 ![Graph-6](https://github.com/Prashanth1211/GovHackEV/blob/main/img/aus-sub.png)
+Maximum EV incentives all over Australia
 
 ### Datasets
 https://discover.data.vic.gov.au/dataset/whole-fleet-vehicle-registration-snapshot-by-postcode
